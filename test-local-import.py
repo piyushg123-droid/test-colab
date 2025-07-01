@@ -1,3 +1,3 @@
-import my_method
+import my_method as my
 
-print(concatenate_wow('Hello', 'try', 'harder', 'ok'))
+print(my.concatenate_wow('Hello', 'try', 'harder', 'ok'))
